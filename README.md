@@ -25,9 +25,11 @@
 
 <details>
   <summary> <b>Tecnologias</b> <i>(Clique para ver mais detalhes:)</i> </summary><br>
+  <ul>
       <li>HTML</li>
       <li>CSS</li>
       <li>Python</li>
+  </ul>
 </details>
 
 <!---
