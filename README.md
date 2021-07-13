@@ -17,7 +17,8 @@
 <h3>Tecnologias</h3>
 
 <h5>GitHub</h5>
-![CauaRodrigues GitHubStats](https://github-readme-stats.vercel.app/api?username=CauaRodrigues&theme=dark&show_icons=true)
+![CauaRodrigues GitHub stats](https://github-readme-stats.vercel.app/api?username=CauaRodrigues&show_icons=true&theme=radical)
+
 <!---
 CauaRodrigues/CauaRodrigues is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
