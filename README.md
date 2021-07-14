@@ -1,6 +1,6 @@
 
 <h1>Olá, Sou o Cauã!</h1>
-<h2>Sou Estudando do SENAI, Iniciante em Desenvolvimento de Sistemas e Leitor de Quadrinhos.</h2>
+<h2>Sou Estudando do SENAI e Iniciante em Desenvolvimento de Sistemas.</h2>
 <ul>
   <li>:boom: Aprimorando meus conhecimentos em HTML, CSS e Python</li>
   <li>:runner: Sedento por conhecimento.</li>
