@@ -7,7 +7,7 @@
   <li>:mag_right: Gosto de resolver problemas.</li>
 </ul>
 
-<h3>Principais Softs Skills</h3>
+<h3>Principais Skills</h3>
 <ul>
   <li>Trabalho bem em equipe.</li>
   <li>Comunicativo.</li>
@@ -17,14 +17,14 @@
   <li>Consigo gerenciar bem o meu tempo e rotina.</li>
 </ul>
 <details>
-  <summary> <b>:octocat: Estatisticas do meu GitHub<b> <i>(Clique para ver mais detalhes:)</i> </summary><br>
+  <summary> <b>:octocat: Estatisticas do meu GitHub<b> <i>(Clique para ver mais detalhes):</i> </summary><br>
 
    ![CauaRodrigues GitHub stats](https://github-readme-stats.vercel.app/api?username=CauaRodrigues&show_icons=true&theme=gotham)
 
 </details>
 
 <details>
-  <summary> <b>Tecnologias</b> <i>(Clique para ver mais detalhes:)</i> </summary><br>
+  <summary> <b>Tecnologias</b> <i>(Clique para ver mais detalhes):</i> </summary><br>
   <ul>
       <li>HTML</li>
       <li>CSS</li>
