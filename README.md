@@ -12,8 +12,10 @@
 <h3>:octocat: Estatisticas do meu GitHub</h3>
 <div>
   <a href="https://github.com/CauaRodrigues">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CauaRodrigues&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CauaRodrigues&layout=compact&langs_count=7&theme=gotham"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CauaRodrigues&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CauaRodrigues&layout=compact&langs_count=7&theme=midnight-purple"/>
+    <br/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=akamatuRodrigues&langs_count=7&theme=midnight-purple" />
   </a>
 </div>
 
