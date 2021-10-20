@@ -3,7 +3,6 @@
 
 <ul>
   <li>👨‍💻 Developer</li>
-  <li>:mag_right: Gosto de resolver problemas.</li>
   <li>16 anos</li>
   <li>Atualmente aprimorando os meus conhecimentos em JavaScript e iniciando meus estudos em hacking</li>
 </ul>
