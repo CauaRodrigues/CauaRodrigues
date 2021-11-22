@@ -2,9 +2,9 @@
 <h1>Olá, Sou o Cauã!</h1>
 
 <ul>
-  <li>👨‍💻 Developer</li>
+  <li>👨‍💻 Developer Front-end</li>
   <li>16 anos</li>
-  <li>Atualmente aprimorando os meus conhecimentos em JavaScript e iniciando meus estudos em hacking</li>
+  <li>Aluno do SENAI em Desenvolvimento de Sistemas</li>
 </ul>
 
 <br/>
