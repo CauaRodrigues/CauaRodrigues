@@ -4,7 +4,7 @@
 <ul>
   <li>👨‍💻 Developer Front-end</li>
   <li>16 anos</li>
-  <li>Aluno do SENAI em Desenvolvimento de Sistemas</li>
+  <li>Atualmente estudando Desenvolvimento de Sistemas no SENAI</li>
 </ul>
 
 <br/>
