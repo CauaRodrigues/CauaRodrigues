@@ -7,8 +7,6 @@
   <li>Atualmente estudando Desenvolvimento de Sistemas no SENAI e em cursos complementares</li>
 </ul>
 
-<br/>
-
 <h3> 💻🛠 Principais Tecnologias</h3>
 <div>
   <img alt="Caua-js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
