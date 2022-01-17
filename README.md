@@ -2,7 +2,7 @@
 <h1>Olá, Sou o Cauã!</h1>
 
 <ul>
-  <li>👨‍💻 Future Developer Front-end and</li>
+  <li>👨‍💻 Future Developer Front-enf</li>
   <li>16 anos</li>
   <li>Atualmente estudando Desenvolvimento de Sistemas no SENAI e em cursos complementares</li>
 </ul>
