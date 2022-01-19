@@ -8,7 +8,7 @@
   <li>Me aperfeiçoando em JavaScript e em seus frameworks</li>
 </ul>
 
-<h3>Minhas estatísticas por Wakatime e GitHub</h3>
+<h3>Minhas estatísticas por GitHub</h3>
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CauaRodrigues&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
   
