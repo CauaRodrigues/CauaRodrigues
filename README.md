@@ -9,7 +9,7 @@
 - 🧑 17 anos
 - 💻 Desenvolvedor Front-end
 - &#127891; Estudando Desenvolvimento de Sistemas pelo SENAI e em cursos online complementares
-- 🎯 Me aperfeiçoando em JavaScript e em seus frameworks
+- 🎯 Apredendo JavaScript e seus frameworks
 - 🔍 Em busca do primeiro emprego como dev
 - 🎵 Movido pela música
 
