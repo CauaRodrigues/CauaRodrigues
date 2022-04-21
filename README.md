@@ -47,6 +47,9 @@
         <img src="https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=pop!_os&logoColor=white" />
         <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
         <img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white" />
+        <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=fff" />
+        <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000" />
     </div>
 </details>
 
@@ -56,6 +59,7 @@
     <summary>Databases</summary>
     <div align="center">
         <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+        <img src="https://img.shields.io/badge/SupaBase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
     </div>
 </details>
 
