@@ -22,7 +22,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CauaRodrigues&layout=compact&langs_count=7&theme=radical"  />
   
   <div>
-    <img src="https://activity-graph.herokuapp.com/graph?username=CauaRodrigues&theme=redical&hide_border=true&area=true" />
+    <img src="https://activity-graph.herokuapp.com/graph?username=CauaRodrigues&theme=redical&area=true" />
   </div>
 </div>
 
