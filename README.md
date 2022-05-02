@@ -20,6 +20,10 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CauaRodrigues&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
   
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CauaRodrigues&layout=compact&langs_count=7&theme=radical"  />
+  
+  <div>
+    <img src="https://activity-graph.herokuapp.com/graph?username=CauaRodrigues&theme=gotham&hide_border=true&area=true" />
+  </div>
 </div>
 
 ---
