@@ -1,8 +1,8 @@
 # Bem vindo ao meu perfil!
 
-<img src="https://i.imgur.com/kanJCgf.png" align="center" />
+[//]: <img src="https://i.imgur.com/kanJCgf.png" align="center" />
 
----
+[//]: ---
 
 <h2 align="center">Sobre mim</h2>
 
