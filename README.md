@@ -1,6 +1,14 @@
-# Bem vindo ao meu perfil!
+# Bem vindo ao meu perfil!!
 
-<img src="https://i.imgur.com/kanJCgf.png" align="center" />
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/82686447/183322564-58a3936f-a588-4724-9c07-7f2662113605.png" />
+  
+  <div>
+    <img src="https://readme-typing-svg.herokuapp.com?size=21&color=43FF4AA3&center=true&vCenter=true&width=500&lines=Hello+There+%F0%9F%96%96;I'm+Cau%C3%A3+Rodrigues" alt="Typing SVG" />
+  </div>
+ 
+</div>
+
 
 ---
 
@@ -8,8 +16,9 @@
 
 - 🧑 17 anos
 - 💻 Desenvolvedor Front-end
-- &#127891; Estudando Desenvolvimento de Sistemas pelo SENAI e em cursos online complementares
-- 🎯 Apredendo JavaScript e seus frameworks
+- 🎓 Técnico em Desenvolvimento de Sitemas pelo SENAI
+- 🦾 Em constante movimento e buscando novos conhecimentos
+- 🎯 Focado em JavaScript e aplicando soluções para a Web
 - 🔍 Em busca do primeiro emprego como dev
 - 🎵 Movido pela música
 
