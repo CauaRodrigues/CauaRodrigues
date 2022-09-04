@@ -16,7 +16,7 @@
 
 - 🧑 17 anos
 - 💻 Desenvolvedor Front-end
-- 🎓 Técnico em Desenvolvimento de Sitemas pelo SENAI
+- 🎓 Técnico em Desenvolvimento de Sitemas pelo SENAI (3/3)
 - 🦾 Em constante movimento e buscando novos conhecimentos
 - 🎯 Focado em JavaScript e aplicando soluções para a Web
 - 🔍 Em busca do primeiro emprego como dev
