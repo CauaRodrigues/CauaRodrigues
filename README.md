@@ -14,7 +14,7 @@
 
 <h2 align="center">Sobre mim</h2>
 
-- 🧑 17 anos
+- 🧑 18 anos
 - 💻 Desenvolvedor Front-end
 - 🎓 Técnico em Desenvolvimento de Sitemas pelo SENAI (3/3)
 - 🦾 Em constante movimento e buscando novos conhecimentos
