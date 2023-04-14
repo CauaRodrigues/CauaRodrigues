@@ -1,13 +1,14 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=764d9c&height=100&section=header" />
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/82686447/183322564-58a3936f-a588-4724-9c07-7f2662113605.png" />
+  <!-- <img src="https://user-images.githubusercontent.com/82686447/183322564-58a3936f-a588-4724-9c07-7f2662113605.png" /> -->
+
+  ![Untitled](https://user-images.githubusercontent.com/82686447/231936096-b58fda4e-f797-4fbb-900e-f659e817cc18.png)
   
   <div>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=2000&pause=500&color=764D9C&center=true&vCenter=true&width=500&lines=Hi!%F0%9F%91%8B;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=2000&pause=700&color=764D9C&center=true&vCenter=true&width=500&lines=Hi!%F0%9F%91%8B;Welcome+to+my+GitHub+Profile!;I'm+Cau%C3%A3%2C+Web+Developer" alt="Typing SVG" />
   </div>
 </div>
-
 
 <h2>About Me</h2>
 
@@ -20,7 +21,7 @@
     🎓 Systems Development Technician at SENAI (3/3) <br />
     🦾 Currently studying React and Data Structures <br />
     🎯 Focused on building web solutions <br />
-    🎵 Lo-fi + Tea = Coding <br />
+    🎵 Lofi + Tea = Coding <br />
     🐧 Linux user 🔥 
   </div>
 </div>
