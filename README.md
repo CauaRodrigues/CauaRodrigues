@@ -29,7 +29,7 @@
 <h2>GitHub stats</h2>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CauaRodrigues&show_icons=true&theme=ocean_dark&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CauaRodrigues&hide=issues&show_icons=true&theme=ocean_dark" />
   
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CauaRodrigues&layout=compact&theme=ocean_dark"  />
 
