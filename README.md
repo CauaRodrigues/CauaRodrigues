@@ -13,7 +13,8 @@
 <h2>About Me</h2>
 
 <div>
-  <img align="right" width="200" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/615401115126513.604889a7bb4e8.gif" />
+
+  <img align="right" width="250" src="https://user-images.githubusercontent.com/82686447/232084338-3e8b6dd5-27b3-4ef4-9399-01889b58e4e1.gif" />
 
   <div>
     🤠 Programming since 2021 <br />
