@@ -9,12 +9,19 @@
 
 <h2>About Me</h2>
 
-🤠 Programming since 2021 <br />
-💻 Frontend Developer <br />
-🎓 Systems Development Technician at SENAI (3/3) <br />
-🦾 Currently studying React and Data Structures <br />
-🎯 Focused on building web solutions <br />
-🎵 Lo-fi + Tea = Coding <br />
+<div>
+  <img align="right" width="200" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/615401115126513.604889a7bb4e8.gif" />
+
+  <div>
+    🤠 Programming since 2021 <br />
+    💻 Frontend Developer <br />
+    🎓 Systems Development Technician at SENAI (3/3) <br />
+    🦾 Currently studying React and Data Structures <br />
+    🎯 Focused on building web solutions <br />
+    🎵 Lo-fi + Tea = Coding <br />
+    🐧 Linux user 🔥 
+  </div>
+</div>
 
 <h2>GitHub stats</h2>
 
@@ -28,8 +35,8 @@
 
 ---
 
-<details>
-    <summary>Linguagens</summary>
+<details open>
+    <summary>Languages</summary>
     <div align="center">
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -40,8 +47,8 @@
 
 ---
 
-<details>
-   <summary>Frameworks e ferramentas</summary>
+<details open>
+   <summary>Frameworks and Tools</summary>
     <div align="center">
         <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"  />
         <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -49,17 +56,18 @@
         <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=mui&logoColor=white" />
         <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
         <img src="https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=pop!_os&logoColor=white" />
-        <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+        <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
         <img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white" />
         <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=fff" />
         <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
         <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000" />
+        <img src="https://img.shields.io/badge/Styled_Components-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=fff" />
     </div>
 </details>
 
 ---
 
-<details>
+<details open>
     <summary>Databases</summary>
     <div align="center">
         <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
@@ -68,7 +76,7 @@
 </details>
 
 ---
-<h3 align="center">Onde me encontrar?</h3>
+<h3 align="center">Connect With Me</h3>
 
 <div align="center">
     <a href="mailto:caua.rodriguesassis205@gmail.com"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
