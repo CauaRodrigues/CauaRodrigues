@@ -1,38 +1,29 @@
-# Bem vindo ao meu perfil!!
-
 <div align="center">
   <img src="https://user-images.githubusercontent.com/82686447/183322564-58a3936f-a588-4724-9c07-7f2662113605.png" />
   
   <div>
-    <img src="https://readme-typing-svg.herokuapp.com?size=21&color=43FF4AA3&center=true&vCenter=true&width=500&lines=Hello+There+%F0%9F%96%96;I'm+Cau%C3%A3+Rodrigues" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1000&color=4853B6&center=true&vCenter=true&width=435&lines=Hi!;Welcome+to+my+GitHub+profile." alt="Typing SVG" />
   </div>
- 
 </div>
 
 
----
+<h2>About Me</h2>
 
-<h2 align="center">Sobre mim</h2>
+🤠 Programming since 2021 <br />
+💻 Frontend Developer <br />
+🎓 Systems Development Technician at SENAI (3/3) <br />
+🦾 Currently studying React and Data Structures <br />
+🎯 Focused on building web solutions <br />
+🎵 Lo-fi + Tea = Coding <br />
 
-- 🧑 18 anos
-- 💻 Desenvolvedor Front-end
-- 🎓 Técnico em Desenvolvimento de Sitemas pelo SENAI (3/3)
-- 🦾 Em constante movimento e buscando novos conhecimentos
-- 🎯 Focado em JavaScript e aplicando soluções para a Web
-- 🔍 Em busca do primeiro emprego como dev
-- 🎵 Movido pela música
+<h2>GitHub stats</h2>
 
----
-
-<h2 align="center">Estatísticas do meu GitHub</h2>
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CauaRodrigues&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CauaRodrigues&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true" />
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CauaRodrigues&layout=compact&langs_count=7&theme=radical"  />
-  
-  <div>
-    <img src="https://activity-graph.herokuapp.com/graph?username=CauaRodrigues&theme=redical&area=true" />
-  </div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CauaRodrigues&layout=compact&langs_count=7&theme=ocean_dark"  />
+
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=akamatu&layout=compact&theme=ocean_dark" />
 </div>
 
 ---
@@ -50,7 +41,7 @@
 ---
 
 <details>
-    <summary>Frameworks e ferramentas</summary>
+   <summary>Frameworks e ferramentas</summary>
     <div align="center">
         <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"  />
         <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
