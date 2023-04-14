@@ -1,8 +1,10 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=764d9c&height=100&section=header" />
+
 <div align="center">
   <img src="https://user-images.githubusercontent.com/82686447/183322564-58a3936f-a588-4724-9c07-7f2662113605.png" />
   
   <div>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1000&color=4853B6&center=true&vCenter=true&width=435&lines=Hi!;Welcome+to+my+GitHub+profile." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=2000&pause=500&color=764D9C&center=true&vCenter=true&width=500&lines=Hi!%F0%9F%91%8B;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
   </div>
 </div>
 
@@ -81,5 +83,6 @@
 <div align="center">
     <a href="mailto:caua.rodriguesassis205@gmail.com"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/cauaassis/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=764d9c&height=80&section=footer" />
