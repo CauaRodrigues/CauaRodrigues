@@ -34,7 +34,7 @@
   
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CauaRodrigues&layout=compact&theme=ocean_dark"  />
 
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=akamatu&layout=compact&theme=ocean_dark" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=akamatu&layout=compact&theme=ocean_dark" /> -->
 </div>
 
 ---
